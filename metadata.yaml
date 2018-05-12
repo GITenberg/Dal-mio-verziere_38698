@@ -1,0 +1,30 @@
+_repo: Dal-mio-verziere_38698
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38698-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Jolanda
+    aliases:
+    - Majocchi Plattis, Maria
+    - Plattis, Maria Majocchi
+    birthdate: 1864
+    deathdate: 1917
+    gutenberg_agent_id: '39613'
+    url: http://www.gutenberg.org/2009/agents/39613
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2012-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38698'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian literature'
+- !lcc 'PQ'
+title: 'Dal mio verziere : saggi di polemica e di critica'
+url: http://www.gutenberg.org/ebooks/38698
